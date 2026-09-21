@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://covertcomms.github.io/c4-protocol/sitemap.xml
